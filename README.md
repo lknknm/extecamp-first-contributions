@@ -91,4 +91,4 @@ Quando seu pedido de pull request for enviado, conseguirei realizar o Merge com 
 Agora você está mais familiar com o fluxo de trabalho no Git utilizando o GitHub como repositório remoto. Você também poderá seguir os tutoriais apresentados no [First Contributions](https://github.com/firstcontributions/first-contributions) -- que foram a fonte para embasar este tutorial -- para criar seus primeiros commits e pull requests, além de agora poder contribuir para projetos [Open Source](https://github.com/open-source)!
 
 ## License
->MIT License. You can fork, copy, use, modify, and distribute this repository without restriction.
+>(C) Lucas Mellone 2023 under MIT License. You can fork, copy, use, modify, and distribute this repository without restriction.

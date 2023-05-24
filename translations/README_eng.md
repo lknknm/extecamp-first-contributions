@@ -87,4 +87,4 @@ When your pull request is finally submitted, I can then `merge` your changes wit
 Now you're familiar with the workflow using Git + Github as a remote repository. You can also follow the tutorials provided by [First Contributions](https://github.com/firstcontributions/first-contributions) -- which are the original source I used to build this tutorial -- to create your first commits and pull requests, as well as be able to contribute to [Open Source](https://github.com/open-source) projects!
 
 ## License
->MIT License. You can fork, copy, use, modify, and distribute this repository without restriction.
+>(C) Lucas Mellone 2023 under MIT License. You can fork, copy, use, modify, and distribute this repository without restriction.
