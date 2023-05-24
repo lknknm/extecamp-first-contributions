@@ -43,7 +43,7 @@ git switch -c add-lucas-m
 
 ## Criando as alterações necessárias para o deploy
 Abra o arquivo `HelloProject/hello.cs` dentro do seu editor de código de preferência (VSCode, VIM, etc).
-A partir do comentário `linha 20` (é importante que seja a partir da linha 20) adicione um print de Hello World onde `<seu-nome>` é o seu nome ou username, como por exemplo:
+A partir do comentário `linha 21` (é importante que seja a partir da linha 21) adicione um print de Hello World onde `<seu-nome>` é o seu nome ou username, como por exemplo:
 
 ```cs
 Console.WriteLine("Hello world! My name is <seu-nome>");
