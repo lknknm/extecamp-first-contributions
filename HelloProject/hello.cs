@@ -18,6 +18,8 @@ namespace HelloWorld
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("Hello world! My name is Lucas");
             // Insira a partir dessa linha conforme o exemplo acima um Hello World com seu nome:
+            // Insert a Hello World with your name following the example above after this line:
+
 
         }
     }
