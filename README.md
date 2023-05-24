@@ -13,8 +13,8 @@ Abra o repositório no GitHub e faça um Fork para o seu perfil clicando no íco
 
 ## Clonando o Repositório
 <img align=right height="330" src="./assets/clone.jpg" alt="git status" />
-Agora você pode clonar o repositório para o seu computador local. Abra o repositório de sua conta (o Fork que você acabou de criar) e clique no dropdown `<> Code` e copie o link do seu repositório:
 
+Agora você pode clonar o repositório para o seu computador local. Abra o repositório de sua conta (o Fork que você acabou de criar) e clique no dropdown `<> Code` e copie o link do seu repositório:
 
 Após copiar a URL do código, execute o comando do Git em uma pasta de sua preferência:
 
@@ -81,8 +81,10 @@ Após o pedido de pull request, será possível verificar a comparação de linh
 <br></br>
 <img src="./assets/pull_request_change.jpg" alt="git status" />
 
+Quando seu pedido de pull request for enviado, conseguirei realizar o Merge com a branch principal (`main`) e você poderá ver seu nome no projeto. 
+
 ## Sumarizando
 Agora você está mais familiar com o fluxo de trabalho no Git utilizando o GitHub como repositório remoto. Você também poderá seguir os tutoriais apresentados no [First Contributions](https://github.com/firstcontributions/first-contributions) -- que foram a fonte para embasar este tutorial -- para criar seus primeiros commits e pull requests, além de agora poder contribuir para projetos [Open Source](https://github.com/open-source)!
 
 ## License
->MIT License. 
+>MIT License. You can fork, copy, use, modify, and distribute this repository without restriction.
