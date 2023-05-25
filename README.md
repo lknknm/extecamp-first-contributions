@@ -2,7 +2,8 @@
 
 
 | [English translation](./translations/README_eng.md) |
-|---------------------|
+|--------------------------------------------------------|
+
 
 Esse projeto foi elaborado com base no repositório [First Contributions](https://github.com/firstcontributions/first-contributions) e na atividade do professor Rodrigo Bonacin, com o objetivo de ajudar os estudantes do curso Microsoft Technologies da Extecamp (Universidade Estadual de Campinas) em controle de versão, e também como exercício para a manutenção de um repositório simples.
 
@@ -13,10 +14,10 @@ Também é importante realizar a autenticação do Git com o GitHub conforme: [A
 ## Fazendo um Fork no projeto
 Abra o repositório no GitHub e faça um Fork para o seu perfil clicando no ícone de `Fork` no canto superior direito. Isso vai copiar este repositório para o seu perfil.
 <br></br>
-<img src="./assets/Fork.jpg" alt="git status" />
+<img src="./assets/Fork.jpg" alt="fork" />
 
 ## Clonando o Repositório
-<img align=right height="330" src="./assets/clone.jpg" alt="git status" />
+<img align=right height="330" src="./assets/clone.jpg" alt="git clone" />
 
 Agora você pode clonar o repositório para o seu computador local. Abra o repositório de sua conta (o Fork que você acabou de criar) e clique no dropdown `<> Code` e copie o link do seu repositório:
 
@@ -57,6 +58,10 @@ Exemplo:
 Console.WriteLine("Hello world! My name is Lucas");
 ```
 Para verificar as mudanças que você realizou, execute o comando `git status`. 
+Ao executar o comando `git log --oneline --decorate --graph --all` poderemos ver algo parecido com o abaixo:
+<br></br>
+<img src="./assets/gitlog.jpg" alt="git log command" />
+<br></br>
 Agora, para criar um staging das suas alterações, execute o comando
 ```shell
 git add HelloProject/hello.cs
@@ -76,14 +81,14 @@ Onde `<nome-de-sua-branch>` é o mesmo nome da Branch que você criou mais cedo.
 
 ## Enviando suas alterações para um Pull Request
 Em seu repositório do GitHub, você verá uma aba chamada `Compare & Pull Request`
-<img src="./assets/pullrequest.png" alt="git status" />
+<img src="./assets/pullrequest.png" alt="pull request" />
 Ao clicar nesse botão, você abrirá uma janela para submeter as suas alterações para o repositório original, com a comparação de linhas que você adicionou, alterou, ou arquivos que inseriu/excluiu. 
 
-<img src="./assets/p_request.jpg" alt="git status" />
+<img src="./assets/p_request.jpg" alt="pull request" />
 
 Após o pedido de pull request, será possível verificar a comparação de linhas alteradas, funções, arquivos, etc.
 <br></br>
-<img src="./assets/pull_request_change.jpg" alt="git status" />
+<img src="./assets/pull_request_change.jpg" alt="request change" />
 
 Quando seu pedido de pull request for enviado, conseguirei realizar o Merge com a branch principal (`main`) e você poderá ver seu nome no projeto. 
 
