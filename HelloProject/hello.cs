@@ -20,6 +20,7 @@ namespace HelloWorld
             // Insira a partir dessa linha conforme o exemplo acima um Hello World com seu nome:
             //Alteração realizada por Thiago Rodrigues
             Console.WriteLine("Hello world! My name is Thiago Rodrigues");
+            Console.WriteLine("Versão 2.0")
             // Insert a Hello World with your name following the example above after this line:
             Console.WriteLine("Hello world! My name is Byron"); // Modificação do código feito por Byron
 
